@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Live server
 
-Navigate to `https://string-calculator.vercel.app/` to view the app running on Vercel free server.
+Navigate to [https://string-calculator.vercel.app/](https://string-calculator.vercel.app/) to view the app running on Vercel free server.
 
 ## Development server
 
