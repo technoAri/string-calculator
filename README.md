@@ -32,9 +32,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 The code coverage for this app is 100 % || Run `ng test --code-coverage` after cloning to check more!
-\nCoverage summary
-\nStatements   : 100% ( 37/37 )
-\nBranches     : 100% ( 10/10 )
-\nFunctions    : 100% ( 9/9 )
-\nLines        : 100% ( 34/34 )
-= =========================================================================== =
+=============================== Coverage summary ===============================
+Statements   : 100% ( 37/37 )
+Branches     : 100% ( 10/10 )
+Functions    : 100% ( 9/9 )
+Lines        : 100% ( 34/34 )
+= ============================================================================ =
