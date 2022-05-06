@@ -46,5 +46,5 @@ getComponents(input: string): NumberInput {
 escapeRegExp(regExpString: string) {
     regExpString = regExpString.replace(/[\-\/\{\}\(\)\*\+\?\.\\\^\$\|]/g, '\\$&');
     return regExpString.replace('][', '|').replace(/\[|\]/g, '');
-}
+  }
 }
