@@ -1,0 +1,9 @@
+<form (ngSubmit)="submit()">
+  <label for="numbers">Input</label>
+  <input type="text" required id="numbers" name="numbers" [(ngModel)]="numbers">
+</form>
+
+<p>
+  <strong>Result:</strong>
+  <span id="result">{{result}}</span>
+</p>
